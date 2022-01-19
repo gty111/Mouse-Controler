@@ -14,19 +14,19 @@
 
 - 图标
 
-<img src="pic/icon.jpg" style="zoom: 50%;" />
+<img src="pic/icon.jpg" width="50%;" />
 
 - 点击图标后界面
 
-<img src="pic/init.jpg" style="zoom:15%;" />
+<img src="pic/init.jpg" width="15%;" />
 
 - 点击最下端的连接按钮
 
-<img src="pic/connect.jpg" style="zoom: 15%;" />
+<img src="pic/connect.jpg" width="15%;" />
 
 - 输入IP和端口号后点击确认进入操作界面
 
-<img src="pic/op.jpg" style="zoom:15%;" />
+<img src="pic/op.jpg" width="15%;" />
 
 - 此时在空白区域滑动即可控制鼠标移动，按钮说明如下
   - 从上到下，第一个按钮为是否拖动按钮，按下后进入拖动模式（PUSH），释放后进入自由模式（RELEASE）；拖动模式下，从手指接触屏幕开始至结束，鼠标左键一直处于按下状态；自由模式下，鼠标左键处于释放状态
