@@ -14,7 +14,7 @@
 
 - 图标
 
-<img src="pic/icon.jpg" width="50%;" />
+<img src="pic/icon.jpg" width="25%;" />
 
 - 点击图标后界面
 
